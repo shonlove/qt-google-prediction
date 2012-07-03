@@ -1,0 +1,14 @@
+"Interrogative", "?"
+"Declarative", "."
+"Exclamation", "!"
+"Interrogative", "How are you?"
+"Declarative", "I like vanilla ice cream."
+"Exclamation", "What a nice day!"
+"Interrogative", "Have you ever been to London?"
+"Declarative", "It was the hardest task I've ever had."
+"Exclamation", "It was really cool!"
+"Interrogative", "How is it going?"
+"Declarative", "Nothing can clear him from the blame of accusing me."
+"Exclamation", "Never give up!"
+
+

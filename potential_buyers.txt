@@ -1,0 +1,193 @@
+"yes",18, "m", "flat",0, "single",0
+"yes",19, "m", "flat",0, "single",0
+"yes",22, "m", "flat",0, "single",0
+"yes",25, "m", "flat",0, "single",0
+"yes",28, "m", "flat",0, "single",0
+"no",31, "m", "flat",0, "single",0
+"no",34, "m", "flat",0, "single",0
+"no",37, "m", "flat",0, "single",0
+"no",40, "m", "flat",0, "single",0
+"no",43, "m", "flat",0, "single",0
+"no",46, "m", "flat",0, "single",0
+"no",49, "m", "flat",0, "single",0
+"no",52, "m", "flat",0, "single",0
+"no",55, "m", "flat",0, "single",0
+"no",58, "m", "flat",0, "single",0
+"no",61, "m", "flat",0, "single",0
+"no",64, "m", "flat",0, "single",0
+"no",67, "m", "flat",0, "single",0
+"yes",18, "m", "house",0, "single",0
+"yes",19, "m", "house",0, "single",0
+"yes",22, "m", "house",0, "single",0
+"yes",25, "m", "house",0, "single",0
+"yes",28, "m", "house",0, "single",0
+"yes",31, "m", "house",0, "single",0
+"yes",34, "m", "house",0, "single",0
+"yes",37, "m", "house",0, "single",0
+"yes",40, "m", "house",0, "single",0
+"no",43, "m", "house",0, "single",0
+"no",46, "m", "house",0, "single",0
+"no",49, "m", "house",0, "single",0
+"no",52, "m", "house",0, "single",0
+"no",55, "m", "house",0, "single",0
+"no",58, "m", "house",0, "single",0
+"yes",61, "m", "house",0, "single",0
+"yes",64, "m", "house",0, "single",0
+"yes",67, "m", "house",0, "single",0
+"yes",18, "f", "flat",0, "single",0
+"yes",19, "f", "flat",0, "single",0
+"yes",22, "f", "flat",0, "single",0
+"no",25, "f", "flat",0, "single",0
+"no",28, "f", "flat",0, "single",0
+"no",31, "f", "flat",0, "single",0
+"no",34, "f", "flat",0, "single",0
+"no",37, "f", "flat",0, "single",0
+"no",40, "f", "flat",0, "single",0
+"no",43, "f", "flat",0, "single",0
+"no",46, "f", "flat",0, "single",0
+"no",49, "f", "flat",0, "single",0
+"no",52, "f", "flat",0, "single",0
+"no",55, "f", "flat",0, "single",0
+"no",58, "f", "flat",0, "single",0
+"no",61, "f", "flat",0, "single",0
+"no",64, "f", "flat",0, "single",0
+"no",67, "f", "flat",0, "single",0
+"yes",18, "f", "house",0, "single",0
+"yes",19, "f", "house",0, "single",0
+"yes",22, "f", "house",0, "single",0
+"yes",25, "f", "house",0, "single",0
+"yes",28, "f", "house",0, "single",0
+"yes",31, "f", "house",0, "single",0
+"yes",34, "f", "house",0, "single",0
+"yes",37, "f", "house",0, "single",0
+"no",40, "f", "house",0, "single",0
+"no",43, "f", "house",0, "single",0
+"no",46, "f", "house",0, "single",0
+"no",49, "f", "house",0, "single",0
+"no",52, "f", "house",0, "single",0
+"no",55, "f", "house",0, "single",0
+"no",58, "f", "house",0, "single",0
+"no",61, "f", "house",0, "single",0
+"no",64, "f", "house",0, "single",0
+"no",67, "f", "house",0, "single",0
+"no",18, "m", "flat",1, "single",0
+"no",19, "m", "flat",1, "single",0
+"no",22, "m", "flat",1, "single",0
+"no",25, "m", "flat",1, "single",0
+"no",28, "m", "flat",1, "single",0
+"no",31, "m", "flat",1, "single",0
+"no",34, "m", "flat",1, "single",0
+"no",37, "m", "flat",1, "single",0
+"no",40, "m", "flat",1, "single",0
+"no",43, "m", "flat",1, "single",0
+"no",46, "m", "flat",1, "single",0
+"no",49, "m", "flat",1, "single",0
+"no",52, "m", "flat",1, "single",0
+"no",55, "m", "flat",1, "single",0
+"no",58, "m", "flat",1, "single",0
+"no",61, "m", "flat",1, "single",0
+"no",64, "m", "flat",1, "single",0
+"no",67, "m", "flat",1, "single",0
+"no",18, "m", "house",1, "single",0
+"no",19, "m", "house",1, "single",0
+"no",22, "m", "house",1, "single",0
+"no",25, "m", "house",1, "single",0
+"no",28, "m", "house",1, "single",0
+"no",31, "m", "house",1, "single",0
+"no",34, "m", "house",1, "single",0
+"no",37, "m", "house",1, "single",0
+"no",40, "m", "house",1, "single",0
+"no",43, "m", "house",1, "single",0
+"no",46, "m", "house",1, "single",0
+"no",49, "m", "house",1, "single",0
+"no",52, "m", "house",1, "single",0
+"no",55, "m", "house",1, "single",0
+"no",58, "m", "house",1, "single",0
+"no",61, "m", "house",1, "single",0
+"no",64, "m", "house",1, "single",0
+"no",67, "m", "house",1, "single",0
+"no",18, "f", "flat",1, "single",0
+"no",19, "f", "flat",1, "single",0
+"no",22, "f", "flat",1, "single",0
+"no",25, "f", "flat",1, "single",0
+"no",28, "f", "flat",1, "single",0
+"no",31, "f", "flat",1, "single",0
+"no",34, "f", "flat",1, "single",0
+"no",37, "f", "flat",1, "single",0
+"no",40, "f", "flat",1, "single",0
+"no",43, "f", "flat",1, "single",0
+"no",46, "f", "flat",1, "single",0
+"no",49, "f", "flat",1, "single",0
+"no",52, "f", "flat",1, "single",0
+"no",55, "f", "flat",1, "single",0
+"no",58, "f", "flat",1, "single",0
+"no",61, "f", "flat",1, "single",0
+"no",64, "f", "flat",1, "single",0
+"no",67, "f", "flat",1, "single",0
+"no",18, "f", "house",1, "single",0
+"no",19, "f", "house",1, "single",0
+"no",22, "f", "house",1, "single",0
+"no",25, "f", "house",1, "single",0
+"no",28, "f", "house",1, "single",0
+"no",31, "f", "house",1, "single",0
+"no",34, "f", "house",1, "single",0
+"no",37, "f", "house",1, "single",0
+"no",40, "f", "house",1, "single",0
+"no",43, "f", "house",1, "single",0
+"no",46, "f", "house",1, "single",0
+"no",49, "f", "house",1, "single",0
+"no",52, "f", "house",1, "single",0
+"no",55, "f", "house",1, "single",0
+"no",58, "f", "house",1, "single",0
+"no",61, "f", "house",1, "single",0
+"no",64, "f", "house",1, "single",0
+"no",67, "f", "house",1, "single",0
+"yes",52, "f", "house",2,"married",1
+"yes",55, "f", "house",1,"married",2
+"yes",58, "f", "house",1,"married",1
+"yes",61, "f", "house",1,"married",1
+"yes",64, "f", "house",1,"married",1
+"yes",67, "f", "house",2,"married",1
+"yes",52,"m", "house",1,"married",1
+"yes",55,"m", "house",1,"married",2
+"yes",58,"m", "house",1,"married",1
+"yes",61,"m", "house",1,"married",1
+"yes",64,"m", "house",1,"married",1
+"yes",67,"m", "house",1,"married",1
+"yes",52, "f","flat",2,"married",1
+"yes",55, "f","flat",1,"married",2
+"yes",58, "f","flat",1,"married",1
+"yes",61, "f","flat",1,"married",1
+"yes",64, "f","flat",1,"married",1
+"yes",67, "f","flat",2,"married",1
+"yes",52,"m","flat",1,"married",1
+"yes",55,"m","flat",1,"married",2
+"yes",58,"m","flat",1,"married",1
+"yes",61,"m","flat",1,"married",1
+"yes",64,"m","flat",2,"married",1
+"yes",67,"m","flat",1,"married",1
+"yes",52, "f", "house",0,"married",1
+"yes",55, "f", "house",0,"married",2
+"yes",58, "f", "house",0,"married",1
+"yes",61, "f", "house",0,"married",1
+"yes",64, "f", "house",0,"married",1
+"yes",67, "f", "house",0,"married",1
+"yes",52,"m", "house",0,"married",1
+"yes",55,"m", "house",0,"married",2
+"yes",58,"m", "house",0,"married",1
+"yes",61,"m", "house",0,"married",1
+"yes",64,"m", "house",0,"married",1
+"yes",67,"m", "house",0,"married",1
+"yes",52, "f","flat",0,"married",1
+"yes",55, "f","flat",0,"married",2
+"yes",58, "f","flat",0,"married",1
+"yes",61, "f","flat",0,"married",1
+"yes",64, "f","flat",0,"married",1
+"yes",67, "f","flat",0,"married",1
+"yes",52,"m","flat",0,"married",1
+"yes",55,"m","flat",0,"married",2
+"yes",58,"m","flat",0,"married",1
+"yes",61,"m","flat",0,"married",1
+"yes",64,"m","flat",0,"married",1
+"yes",67,"m","flat",0,"married",1
+
